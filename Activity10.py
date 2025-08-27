@@ -5,6 +5,6 @@ uname = input("Enter Username --> ")
 pword = input("Enter Password --> ")
 
 if uname == Username and pword == Password:
-	print("Access Granted")
+	print("ACCESS GRANTED")
 else:
-	print("Access Denied")
+	print("ACCESS DENIED")
